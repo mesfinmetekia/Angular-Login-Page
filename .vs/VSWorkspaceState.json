@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\dashboard",
+    "\\src\\app\\items",
+    "\\src\\app\\login",
+    "\\src\\app\\logout",
+    "\\src\\app\\_auth",
+    "\\src\\app\\_shared",
+    "\\src\\app\\_shared\\helpers"
+  ],
+  "SelectedNode": "\\src\\app\\dashboard\\dashboard.component.html",
+  "PreviewInSolutionExplorer": false
+}
